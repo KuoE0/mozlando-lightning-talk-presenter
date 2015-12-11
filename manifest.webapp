@@ -1,0 +1,18 @@
+{
+  "name": "Demo Presenter",
+  "description": "Presenter for demo slide of mult-screen",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "developer": {
+    "name": "KuoE0",
+    "url": ""
+  },
+  "permissions": {
+    "presentation": {}
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "90": "/images/phone-90.png",
+    "135": "/images/phone-135.png"
+  }
+}
