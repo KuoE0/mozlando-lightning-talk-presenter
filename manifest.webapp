@@ -3,6 +3,7 @@
   "description": "Presenter for demo slide of mult-screen",
   "launch_path": "/index.html",
   "type": "certified",
+  "orientation": "portrait",
   "developer": {
     "name": "KuoE0",
     "url": ""
